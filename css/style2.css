@@ -1,0 +1,8 @@
+.detail.html{
+  padding: 10px 0;
+  margin: 80px auto;
+  width: 200px;
+  background-color: radial-gradient(#ff5800,#8b00be,rgba(255,0,0,0.2));
+  box-shadow: 0.5px 0 rgba(255, 0, 0, 0.2);
+  border-radius: 30px;
+}
