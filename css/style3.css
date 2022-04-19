@@ -1,12 +1,13 @@
-*{
-  padding: 0;
-  margin: 0;
+.example1{
+  display: inline;
 }
 
+.example2{
+  display: block;
+}
 
-.bg{
-  background-image: url("../img/firstview.jpg/firstview.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: bottom;
+.example3,
+
+.example4{
+  display: inline-block;
 }
