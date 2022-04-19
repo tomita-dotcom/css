@@ -1,13 +1,11 @@
-.example1{
-  display: inline;
-}
-
-.example2{
-  display: block;
-}
-
-.example3,
-
-.example4{
-  display: inline-block;
-}
+a{
+  width: 200px;
+  padding: 10px 0;
+  color: #fff;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #ff5800, #8b00be);
+  text-align: center;
+  box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
+  margin:100px auto 0;
+  display:block;
+  }
