@@ -3,14 +3,14 @@
   background-color: #55bbbb;
   width: 300px;
   display: block;
-  padding: 18px;
+  padding: 20px;
   text-align: center;
   color: #fff;
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
-  margin: 100px auto;
-  border-radius: 60px;
+  margin: 90px auto;
+  border-radius: 10px;
 }
 
 .contact-us::before{
@@ -22,7 +22,7 @@
   background-size: cover;
   width: 30px;
   height: 30px;
-  transform: translate(-50%,-50%);
+  transform: translate(0%,-40%);
 }
 
 .contact-us::after {
