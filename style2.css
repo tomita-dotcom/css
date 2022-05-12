@@ -1,23 +1,28 @@
-body,
-html {
-  height: 100%;
+.openBth {
+  display: block;
+  margin: 50px auto;
 }
 
-.parallax-bg,
-.scrollbox {
-  color: white;
-  font-size: 48px;
+.modal {
+  display: none;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal__content {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   height: 100%;
 }
 
-.parallax-bg {
-  /img/elephant.png/elephant.png
-}
-
-
-.scrollbox {
-  background-color: #000;
+.modal__content-inner {
+  background-color: white;
+  width: 500px;
+  text-align: center;
+  padding: 50px;
 }
