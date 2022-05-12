@@ -14,8 +14,9 @@ html {
 }
 
 .parallax-bg {
-  background: url(/img/elephant.png/elephant.png) fixed cebter/cover no-repeat;
+  /img/elephant.png/elephant.png
 }
+
 
 .scrollbox {
   background-color: #000;
